@@ -31,3 +31,19 @@ This project replicates the ticket booking process used by BookMyShow for Coldpl
    ```bash
    git clone https://github.com/yourusername/ColdplayTicketBooking.git
    cd ColdplayTicketBooking
+``
+
+2. ```bash
+   cd backend``
+
+3. ```bash
+   node server.js``
+
+3. ```bash
+   cd ../frontend``
+
+4. ```bash
+   npm i``
+
+5. ```bash
+   npm run dev``
